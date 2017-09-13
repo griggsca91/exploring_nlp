@@ -38,7 +38,21 @@ Risk = *R(h)* = *∫L(h(x),y)dP(x,y)*
 
 *L(h(x), y)* is a loss function that returns a value of how bad it is if the rule predicts *h(x)* while the true label is *y*
 
+---
 
+Simple Classifiers:
+
+    Naive Bayes
+    Logistic Regression
+    Decision Trees
+    Neural Networks
+
+Sequence Models:
+
+    Hidden Markov Models
+    Maximum Entropy Markov Models
+    Conditional Random Fields
+    Recursive Neural Netowrks (RNNs, LSTMs)
 
 ## Resources
 
